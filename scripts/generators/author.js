@@ -1,5 +1,5 @@
 /**
- * author v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * author v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 hexo.extend.generator.register('author', function (locals) {

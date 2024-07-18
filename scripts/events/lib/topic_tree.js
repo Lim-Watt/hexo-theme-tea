@@ -1,5 +1,5 @@
 /**
- * topic.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * topic.js v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  * 用于专栏/专题文章，一个专栏类似于 wiki 模块中的一个项目文档
  * 区别是：
  * 1. 按发布日期排序，无需手动排序

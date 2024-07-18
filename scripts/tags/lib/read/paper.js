@@ -1,5 +1,5 @@
 /**
- * paper.js v1.1 | https://github.com/HcGys/stellar/
+ * paper.js v1.1 | https://github.com/HcGys/tea/
  * 格式与官方标签插件一致使用空格分隔，中括号内的是可选参数（中括号不需要写出来）
  *
  * paper:

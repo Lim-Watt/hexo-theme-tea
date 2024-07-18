@@ -19,7 +19,7 @@ hexo.on('generateAfter', () => {
 
 hexo.on('ready', () => {
   const { version, homepage, repository } = require('../../package.json');
-  hexo.log.info(`Welcome to Stellar ${version}
+  hexo.log.info(`Welcome to tea ${version}
 DOCS  ${homepage}
 REPO  ${repository.url}
   `);

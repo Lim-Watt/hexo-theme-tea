@@ -1,5 +1,5 @@
 /**
- * link.js v1.1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * link.js v1.1 | https://github.com/Lim-Watt/hexo-theme-tea/
  * 格式与官方标签插件一致使用空格分隔，中括号内的是可选参数（中括号不需要写出来）
  *
  * {% link url [title] [desc:true/false] [icon:src] %}

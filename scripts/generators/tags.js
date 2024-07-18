@@ -1,5 +1,5 @@
 /**
- * tags v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * tags v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 hexo.extend.generator.register('tags', function (locals) {

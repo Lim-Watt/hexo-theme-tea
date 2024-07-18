@@ -91,7 +91,7 @@ function custom_inject() {
 
 <head>
   <meta charset="utf-8">
-  <meta name="hexo-theme" content="<%- stellar_info('tree') %>" theme-name="<%- stellar_info('name') %>" theme-version="<%- stellar_info('version') %>">
+  <meta name="hexo-theme" content="<%- tea_info('tree') %>" theme-name="<%- tea_info('name') %>" theme-version="<%- tea_info('version') %>">
   <%- generate_robots() %>
   <%- meta_generator() %>
   <meta http-equiv='x-dns-prefetch-control' content='on' />
@@ -119,7 +119,7 @@ function custom_inject() {
     <%- feed_tag(config.feed.path, {title: config.title}) %>
   <% } %>
 
-  <link rel="stylesheet" href="<%- `${theme.stellar.main_css}?v=${stellar_info('version')}` %>">
+  <link rel="stylesheet" href="<%- `${theme.tea.main_css}?v=${tea_info('version')}` %>">
 
   <% if (config.favicon) { %>
     <%- favicon_tag(config.favicon) %>

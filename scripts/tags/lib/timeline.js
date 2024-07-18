@@ -1,5 +1,5 @@
 /**
- * timeline.js v2.1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * timeline.js v2.1 | https://github.com/Lim-Watt/hexo-theme-tea/
  *
  * {% timeline %}
  *

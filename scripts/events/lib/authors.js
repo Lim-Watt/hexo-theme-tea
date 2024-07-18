@@ -1,5 +1,5 @@
 /**
- * authors.js v2 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * authors.js v2 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 'use strict';

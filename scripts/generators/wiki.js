@@ -1,5 +1,5 @@
 /**
- * wiki v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * wiki v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 hexo.extend.generator.register('wiki', function (locals) {

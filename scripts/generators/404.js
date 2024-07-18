@@ -1,5 +1,5 @@
 /**
- * 404 v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * 404 v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 hexo.extend.generator.register('404', function (locals) {

@@ -1,5 +1,5 @@
 /**
- * img_lazyload.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * img_lazyload.js v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  *
  */
 

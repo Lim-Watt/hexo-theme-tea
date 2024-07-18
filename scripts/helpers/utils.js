@@ -1,5 +1,5 @@
 /**
- * utils v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * utils v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  */
 
 'use strict';

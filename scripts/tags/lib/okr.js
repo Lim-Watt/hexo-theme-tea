@@ -1,5 +1,5 @@
 /**
- * okr.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * okr.js v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  * 
  * {% okr o1 percent:0.5 status:delay %}
  * title (only one line)

@@ -1,15 +1,15 @@
 'use strict';
 
-hexo.extend.helper.register('stellar_info', function(args){
-  const repo = 'https://github.com/xaoxuu/hexo-theme-stellar';
-  const wiki = 'https://xaoxuu.com/wiki/stellar/';
+hexo.extend.helper.register('tea_info', function(args){
+  const repo = 'https://github.com/Lim-Watt/hexo-theme-tea';
+  const wiki = 'https://Lim-Watt.com/wiki/tea/';
   const issues = repo + '/issues/';
   const { version } = require('../../package.json');
-  const cfg = hexo.theme.config.stellar;
+  const cfg = hexo.theme.config.tea;
   if (!args) {
     return repo;
   } else if (args == 'name') {
-    return 'Stellar';
+    return 'tea';
   } else if (args == 'version') {
     return version;
   } else if (args == 'issues') {

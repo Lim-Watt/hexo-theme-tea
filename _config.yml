@@ -1,7 +1,7 @@
 ######## Tea info ########
 tea:
   version: '0.1.0'
-  homepage: 'https://xaoxuu.com/wiki/stellar/'
+  homepage: 'https://Lim-Watt.com/wiki/tea/'
   repo: 'https://github.com/Lim-Watt/hexo-theme-tea'
   main_css: /css/main.css
   main_js: /js/main.js
@@ -83,7 +83,7 @@ site_tree:
     leftbar: related, recent # for wiki
     rightbar: 
     nav_tabs:
-      # 'more': https://github.com/xaoxuu
+      # 'more': https://github.com/Lim-Watt
   # -- 内容类页面 -- #
   # 博客文章内页配置
   post:

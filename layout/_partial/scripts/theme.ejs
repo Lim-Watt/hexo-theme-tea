@@ -42,7 +42,7 @@
         newTheme = 'light'
     }
     applyTheme(newTheme)
-    window.localStorage.setItem('Stellar.theme', newTheme)
+    window.localStorage.setItem('tea.theme', newTheme)
 
     const messages = {
       light: `<%- __('message.theme_switched.light') %>`,
@@ -54,7 +54,7 @@
 
   (() => {
     // Apply user's preferred theme, if any.
-    const theme = window.localStorage.getItem('Stellar.theme')
+    const theme = window.localStorage.getItem('tea.theme')
     if (theme !== null) {
       applyTheme(theme)
     }

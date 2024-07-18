@@ -1,5 +1,5 @@
 /**
- * img_onerror.js v1 | https://github.com/xaoxuu/hexo-theme-stellar/
+ * img_onerror.js v1 | https://github.com/Lim-Watt/hexo-theme-tea/
  * 发现这个和 img_lazyload 有点冲突，会被 img_lazyload 覆盖
  */
 
