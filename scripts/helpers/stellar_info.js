@@ -2,7 +2,7 @@
 
 hexo.extend.helper.register('tea_info', function(args){
   const repo = 'https://github.com/Lim-Watt/hexo-theme-tea';
-  const wiki = 'https://Lim-Watt.com/wiki/tea/';
+  const wiki = 'https://limit-bed.com/wiki/tea/';
   const issues = repo + '/issues/';
   const { version } = require('../../package.json');
   const cfg = hexo.theme.config.tea;

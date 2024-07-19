@@ -24,10 +24,10 @@ module.exports = ctx => function(args) {
   if (path.includes('/')) {
     // is repo
     const ps = path.split('/')
-    url += 'https://github-readme-stats.Lim-Watt.com/api/pin/?username=' + ps[0] + '&repo=' + ps[1]
+    url += 'https://github-readme-stats.xaoxuu.com/api/pin/?username=' + ps[0] + '&repo=' + ps[1]
   } else {
     // is user
-    url += 'https://github-readme-stats.Lim-Watt.com/api/?username=' + path
+    url += 'https://github-readme-stats.xaoxuu.com/api/?username=' + path
   }
   url += '&' + ctx.args.joinURLParams(args, params)
   if (!url.includes('&show_owner=')) {
