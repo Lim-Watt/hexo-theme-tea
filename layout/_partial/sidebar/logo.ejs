@@ -38,19 +38,19 @@ function layoutTitle(main, url, sub) {
 }
 
 function layoutDiv() {
-  if (where == 'main') {
-    if (page.header == false) {
-      return ''
-    }
-    // 内容页如果未设置 header 则不显示
-    if (page.header == null) {
-      if (!page.nav_tabs) { // 如果有 nav_tabs 就代表是列表页
-        if (page.layout === 'post' || page.layout === 'page' || page.wiki) {
-          return ''
-        }
-      }
-    }
-  }
+  //if (where == 'main') {
+  //  if (page.header == false) {
+  //    return ''
+  //  }
+  //  // 内容页如果未设置 header 则不显示
+  //  if (page.header == null) {
+  //    if (!page.nav_tabs) { // 如果有 nav_tabs 就代表是列表页
+  //      if (page.layout === 'post' || page.layout === 'page' || page.wiki) {
+  //        return ''
+  //      }
+  //    }
+  //  }
+  //}
   var el = ''
   el += `<header class="header${where == 'main' ? ' mobile-only' : ''}">`
   el += `<div class="logo-wrap">`
